@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/icon-img/usdt.png",
+    "title": " 1 USDT= 75 INR",
+    "subtitle": ""
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/icon-img/Tron-back.png",
+    "title": "1 TRX= 6 INR",
+    "subtitle": ""
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/icon-img/soxy.png",
+    "title": " 1 SOXY= 3 INR",
+    "subtitle": ""
+  }
+]
